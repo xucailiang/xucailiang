@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm xucailiang, You can also call me Justin
 
-I'm a web application developer with a background in big data engineering, currently focused on AI application development. 
+I'm a web application developer with a background in Data platform, currently focused on AI application development. 
 
 ## 🌐 Technologies I Use
 - **Languages**: Python, Java
