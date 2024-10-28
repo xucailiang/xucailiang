@@ -4,6 +4,7 @@ I'm a web application developer with a background in Data platform, currently fo
 
 ## 🌐 Technologies I Use
 - **Languages**: Python, Java
+- **Library**: Dspy, Matrix, graph-rag and most of the libraries related to backend development
 
 ## 💼 Current Contributions
 I'm actively participating in the [DSPY](https://github.com/stanfordnlp/dspy) and [DocsGPT](https://github.com/arc53/DocsGPT) projects, where I enjoy collaborating with the community.
