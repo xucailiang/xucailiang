@@ -1,13 +1,28 @@
-## Hi there 👋 I'm xucailiang, You can also call me Justin
+# 👋 Hello, I'm xucailiang
 
-I'm a web application developer with a background in Data platform, currently focused on AI application development. 
+## 🚀 About Me
 
-## 🌐 Technologies I Use
+I'm an AI Development Engineer specializing in the backend development of AI agents. Previously, I worked as a backend developer for the data platform at a leading e-commerce and fintech company in Southeast Asia.
+
+## 💻 Technical Skills
+
 - **Languages**: Python, Java
-- **Library**: Dspy, Matrix, graph-rag and most of the libraries related to backend development
+- **Focus Areas**: LLM applications, AI agents, backend systems
 
-## 💼 Current Contributions
-I'm actively participating in the [DSPY](https://github.com/stanfordnlp/dspy) and [DocsGPT](https://github.com/arc53/DocsGPT) projects, where I enjoy collaborating with the community.
+## 🔭 Current Focus
 
-## 💬 Let's Connect
-I'm always open to new ideas and suggestions. Feel free to reach out!
+I'm deeply interested in Large Language Models and their applications. Currently, I'm actively exploring various aspects of AI development and implementation.
+
+## 🌱 Open Source Contributions
+
+I'm passionate about contributing to the open source community. Currently, I'm a contributor to:
+- [DSPy](https://github.com/stanfordnlp/dspy)
+- [DocsGPT](https://github.com/arc53/DocsGPT)
+
+## 🤝 Community
+
+I strongly believe in the power of open source collaboration and am committed to contributing my expertise to help make our community stronger. Looking forward to connecting with like-minded developers and creating impactful projects together!
+
+---
+
+*"Contributing to open source isn't just about code—it's about making technology better for everyone."*
