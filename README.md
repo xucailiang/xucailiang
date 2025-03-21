@@ -16,6 +16,7 @@ I'm deeply interested in Large Language Models and their applications. Currently
 ## 🌱 Open Source Contributions
 
 I'm passionate about contributing to the open source community. Currently, I'm a contributor to:
+- [litellm](https://github.com/BerriAI/litellm)
 - [DSPy](https://github.com/stanfordnlp/dspy)
 - [DocsGPT](https://github.com/arc53/DocsGPT)
 
