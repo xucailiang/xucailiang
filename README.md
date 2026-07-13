@@ -1,37 +1,16 @@
-# 👋 Hello, I'm Justin(XuCaiLiang)
+# Hi, I'm Justin 👋
 
-## 🚀 About Me
+AI engineer focused on building production-ready agents, multimodal applications, and real-time AI systems.
 
-I'm an AI Development Engineer at an industry-leading AI agent development company, specializing in the backend development of AI agents. Previously, I worked as a backend developer for the data platform at a leading e-commerce and fintech company in Southeast Asia.
+I work across agent runtimes, context and memory systems, voice pipelines, RAG, and agentic workflows—turning emerging model capabilities into reliable products and open-source infrastructure.
 
-## 💻 Technical Skills
-
--   **Languages**: Python, Java
--   **Core AI Focus**:
-    -   **LLM Applications**: RAG, Fine-tuning, and advanced Prompt Engineering.
-    -   **Multimodal Models**: Developing applications that integrate and reason across text, image, and audio data.
-    -   **Multi-Agent Systems**: Designing and constructing collaborative frameworks where multiple AI agents work together to solve complex problems.
--   **Backend & Deployment**:
-    -   **System Architecture**: Building robust and scalable backend systems for AI services.
-    -   **MLOps & Model Deployment**: Containerization (Docker, Kubernetes), model serving optimization, and creating efficient deployment pipelines.
--   **Conversational AI**:
-    -   **Voice Dialogue**: Integrating Speech-to-Text (STT) and Text-to-Speech (TTS) technologies to build seamless, voice-enabled conversational experiences.
-
-## 🔭 Current Focus
-
-I'm deeply invested in the frontiers of Large Language Models and their practical applications. My current exploration is centered on:
--   **Multimodal Intelligence**: Researching how models can fuse various data types for a more comprehensive understanding of the real world.
--   **Agentic Workflows**: Constructing sophisticated multi-agent systems to automate and tackle complex, multi-step tasks.
--   **Natural Human-Computer Interaction**: Engineering more intuitive and lifelike conversational agents through voice and other modalities.
--   **Performance Optimization**: Ensuring AI models are not only powerful but also deployed efficiently and scalably in production environments.
-
-## 🌱 Open Source Contributions
-
-I'm passionate about contributing to the open source community. Currently, I'm a contributor to:
-- [litellm](https://github.com/BerriAI/litellm)
+Open-source contributor to 
 - [DSPy](https://github.com/stanfordnlp/dspy)
-- [DocsGPT](https://github.com/arc53/DocsGPT)
-- [chonkie](https://github.com/chonkie-inc/chonkie)
+- [LiteLLM](https://github.com/BerriAI/litellm)
+- [OpenMontage](https://github.com/calesthio/OpenMontage).
+- ...
+
+**Currently exploring:** agent engineering, multimodal generation, real-time voice interaction, and developer infrastructure for AI-native products.
 
 ## 🤝 Community
 
